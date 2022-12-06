@@ -1,28 +1,14 @@
-HTTrack3.49-2+htsswf+htsjava launched on Thu, 13 Oct 2022 10:23:31 at https://www.devsnews.com/template/neeha/neeha/index-5.html# +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
-(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.devsnews.com/template/neeha/neeha/index-5.html# -O1 "C:\Users\Owner\Desktop\Mentor Parth\Mentor Parth\Mentor Parth" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 06 Dec 2022 11:23:44 at https://themes.potenzaglobalsolutions.com/html/hi-soft/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://themes.potenzaglobalsolutions.com/html/hi-soft/index.html -O1 "C:\Users\Owner\Desktop\Mentor Parth\Divine Astrology\Mentor Parth" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
 
 Information, Warnings and Errors reported for this mirror:
 note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
 	such as username/password authentication for websites mirrored in this project
 	do not share these files/folders if you want these information to remain private
 
-10:26:16	Error: 	"Not Found" (404) at link https://www.devsnews.com/template/neeha/neeha/about.html (from https://www.devsnews.com/template/neeha/neeha/index-5.html)
-10:26:16	Error: 	"Not Found" (404) at link https://www.devsnews.com/template/neeha/neeha/project-details.html (from https://www.devsnews.com/template/neeha/neeha/index-5.html)
-10:26:16	Warning: 	File not parsed, looks like binary: https://www.devsnews.com/template/neeha/neeha/assets/fonts/fa-brands-400.woff2
-10:26:16	Warning: 	File not parsed, looks like binary: https://www.devsnews.com/template/neeha/neeha/assets/fonts/fa-duotone-900.woff2
-10:26:22	Warning: 	File not parsed, looks like binary: https://www.devsnews.com/template/neeha/neeha/assets/fonts/fa-light-300.woff2
-10:26:24	Warning: 	File not parsed, looks like binary: https://www.devsnews.com/template/neeha/neeha/assets/fonts/fa-regular-400.woff2
-10:26:27	Warning: 	File not parsed, looks like binary: https://www.devsnews.com/template/neeha/neeha/assets/fonts/fa-solid-900.woff2
-10:26:29	Warning: 	File not parsed, looks like binary: https://www.devsnews.com/template/neeha/neeha/assets/fonts/Flaticon.woff2
-10:26:29	Error: 	"Not Found" (404) at link https://www.devsnews.com/template/neeha/neeha/assets/css/Flaticon.svg (from https://www.devsnews.com/template/neeha/neeha/assets/css/flaticon.css)
-10:26:29	Error: 	"Not Found" (404) at link https://www.devsnews.com/template/neeha/neeha/assets/css/owl.video.play.png (from https://www.devsnews.com/template/neeha/neeha/assets/css/owl.carousel.min.css)
-10:26:29	Warning: 	File not parsed, looks like binary: https://www.devsnews.com/template/neeha/neeha/assets/fonts/CerebriSans-SemiBold.woff2
-10:26:29	Warning: 	File not parsed, looks like binary: https://www.devsnews.com/template/neeha/neeha/assets/fonts/CerebriSans-Regular.woff2
-10:26:29	Warning: 	File not parsed, looks like binary: https://www.devsnews.com/template/neeha/neeha/assets/fonts/CerebriSans-Bold.woff2
-10:26:29	Warning: 	File not parsed, looks like binary: https://www.devsnews.com/template/neeha/neeha/assets/fonts/CerebriSans-Light.woff2
-10:26:29	Warning: 	File not parsed, looks like binary: https://www.devsnews.com/template/neeha/neeha/assets/fonts/CerebriSans-Medium.woff2
-10:26:29	Error: 	"Not Found" (404) at link https://www.devsnews.com/template/neeha/neeha/software-dev.html class= (from https://www.devsnews.com/template/neeha/neeha/index.html)
-10:26:29	Error: 	"Not Found" (404) at link https://www.devsnews.com/template/neeha/neeha/assets/img/icon/arrow.png (from https://www.devsnews.com/template/neeha/neeha/contacts.html)
+11:24:44	Error: 	"Not Found" (404) at link https://themes.potenzaglobalsolutions.com/html/hi-soft/properties.html (from https://themes.potenzaglobalsolutions.com/html/hi-soft/index.html)
+11:25:02	Error: 	"Not Found" (404) at link https://themes.potenzaglobalsolutions.com/html/hi-soft/Flaticon.svg (from https://themes.potenzaglobalsolutions.com/html/hi-soft/css/flaticon/flaticon.css)
+11:25:02	Error: 	"Not Found" (404) at link https://themes.potenzaglobalsolutions.com/html/hi-soft/css/owl-carousel/owl.video.play.png (from https://themes.potenzaglobalsolutions.com/html/hi-soft/css/owl-carousel/owl.carousel.min.css)
 
-HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 58 seconds : 290 links scanned, 283 files written (39944530 bytes overall) [38248782 bytes received at 214880 bytes/sec], 2120447 bytes transferred using HTTP compression in 57 files, ratio 15%, 9.6 requests per connection
-(6 errors, 11 warnings, 0 messages)
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 19 seconds : 248 links scanned, 244 files written (22949901 bytes overall) [22008610 bytes received at 278590 bytes/sec], 1246061 bytes transferred using HTTP compression in 37 files, ratio 17%, 62.0 requests per connection
+(3 errors, 0 warnings, 0 messages)
