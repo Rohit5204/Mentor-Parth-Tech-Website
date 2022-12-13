@@ -4729,16 +4729,18 @@ ul.category-list li a:after {
   color: #ef3139;
 }
 
+
 /* Category Box Style 01 */
 .category-box .category-icon {
-  background: #ffffff;
+  background: #c4b9b9;
   padding: 40px 30px;
   margin-bottom: 30px;
   text-align: center;
   -webkit-box-shadow: 5px 5px 24px 0px rgba(2, 45, 98, 0.1);
   box-shadow: 5px 5px 24px 0px rgba(2, 45, 98, 0.1);
-  border-radius: 5px;
+  border-radius: 150px;
 }
+/* Rohit updated border radius rom 5px */
 
 .category-box .category-icon i {
   color: #ef3139;
