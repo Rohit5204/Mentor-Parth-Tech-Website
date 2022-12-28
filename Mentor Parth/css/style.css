@@ -4346,7 +4346,7 @@ a.text-primary:hover {
 
 .case-study .case-study-img {
   background-size: cover;
-  min-height: 242px;
+  min-height: 300px;
   border-radius: 5px;
   background-position: center center;
 }
@@ -4740,6 +4740,7 @@ ul.category-list li a:after {
   box-shadow: 5px 5px 24px 0px rgba(2, 45, 98, 0.1);
   border-radius: 150px;
 }
+
 /* Rohit updated border radius rom 5px */
 
 .category-box .category-icon i {
@@ -7556,6 +7557,11 @@ input.form-control {
   background-size: cover;
   background-position: center center;
 }
+.header-inner1 {
+  padding: 580px 0px;
+  background-size: cover;
+  background-position: center center;
+}
 
 .header-inner .header-inner-title {
   font-size: 18px;
@@ -7719,7 +7725,27 @@ input.form-control {
 
   /* Header Inner */
   .header-inner {
-    padding: 40px 0px;
+    padding: 240px 0px;
+  }
+
+  .header-inner-menu {
+    padding-bottom: 0;
+  }
+
+  .bg-dark-half-sm:before,
+  .bg-light-half-sm:before {
+    height: 150px;
+  }
+
+  .contact-bg-logo i {
+    font-size: 18rem;
+  }
+}
+@media (max-width: 575px) {
+
+  /* Header Inner */
+  .header-inner1 {
+    padding: 240px 0px;
   }
 
   .header-inner-menu {
