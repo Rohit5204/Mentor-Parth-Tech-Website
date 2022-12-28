@@ -240,9 +240,80 @@
     <!--=================================
     banner -->
     <!-- https://img.freepik.com/free-vector/people-using-interfaces-isometric-colored-composition_1284-64890.jpg?w=900&t=st=1670994411~exp=1670995011~hmac=b6599217997078c83827e4c3ad484dbb146053390f7dc794634ac07f5946a719 -->
-    <section class="banner align-items-center d-flex space-pt bg-holder  h-600 h-sm-500 bg-overlay-black-10"
-        style="background-image:url(images/homepage.png); background-size: cover; background-position: center center;">
+    <!-- <section class="banner align-items-center d-flex space-pt bg-holder  h-600 h-sm-500 bg-overlay-black-10"
+        style="background-image:url(images/home\ page-01.png); background-size: cover; background-position: center center;">
        
+    </section> -->
+
+    <section class="banner slider-03">
+        <style>
+            .wrapper1 {
+                width: 100%;
+                display: flex;
+                animation: slide 24s infinite;
+            }
+
+            /*Animation activated by keyframes*/
+            @keyframes slide {
+                0% {
+                    transform: translateX(0);
+                }
+
+                25% {
+                    transform: translateX(0);
+                }
+
+                30% {
+                    transform: translateX(-100%);
+                }
+
+                50% {
+                    transform: translateX(-100%);
+                }
+
+                55% {
+                    transform: translateX(-200%);
+                }
+
+                75% {
+                    transform: translateX(-200%);
+                }
+
+                80% {
+                    transform: translateX(-300%);
+                }
+
+                100% {
+                    transform: translateX(-300%);
+                }
+            }
+        </style>
+        <div class="swiper-container">
+            <div class="swiper-wrapper wrapper1 h-800 h-sm-500">
+                <div class="swiper-slide align-items-center d-flex"
+                    style="background-image:url(images/home\ page-01.png); background-size: cover; background-position: center center;">
+                    <div class="swipeinner container position-relative z-index-1">
+                        <div class="row">
+                            <div class="col-sm-9 col-lg-6 order-md-1 pt-6">
+                                <h1 class="fw-bold display-2 text-white">Interesting, <span
+                                        class="bg-primary px-2 border-radius"> Relevant</span> & Different</h1>
+                                <p class="text-white">We design brand experiences that help enterprising nonprofits &
+                                    organizations grow their impact.</p>
+                                <div class="d-flex mt-5">
+                                    <h4 class="text-primary">hr@itechmentor.com</h4>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="swiper-slide align-items-center d-flex"
+                    style="background-image:url(images/homepage.png); background-size: cover; background-position: center center;">
+
+                </div>
+            </div>
+            <!-- <div class="swiper-button-prev swiper-button-small"><i class="fas flaticon-return icon-btn"></i></div>
+            <div class="swiper-button-next swiper-button-small"><i class="fas flaticon-trajectory icon-btn"></i></div> -->
+        </div>
     </section>
     <!--=================================
     banner -->
@@ -313,7 +384,7 @@
                 <div class="col-lg-12">
                     <div class="row">
                         <div class="col-md-6 mt-5">
-                            <img class="img-fluid" src="images/our work process-10-10.png" alt="" >
+                            <img class="img-fluid" src="images/our work process-10-10.png" alt="">
                         </div>
                         <div class="col-md-6 mt-5">
                             <div class="pe-3">
@@ -1404,8 +1475,8 @@
             <div id="myModal" class="modal">
                 <!-- The Modal -->
                 <div>
-                    <script src="https://cdn01.jotfor.ms/static/prototype.forms.js?3.3.38097"
-                        type="text/javascript"></script>
+                    <!-- <script src="https://cdn01.jotfor.ms/static/prototype.forms.js?3.3.38097"
+                        type="text/javascript"></script> -->
                     <script src="https://cdn02.jotfor.ms/static/jotform.forms.js?3.3.38097"
                         type="text/javascript"></script>
                     <script defer src="https://cdnjs.cloudflare.com/ajax/libs/punycode/1.4.1/punycode.js"></script>
@@ -2448,16 +2519,16 @@
                         <h5 class="text-primary mb-3">Contact ITech-Mentor</h5>
                         <div class="contact-address">
                             <div class="contact-item">
-                                <label>Address:</label>
-                                <p>Vashi, Navi Mumbai, Maharashtra</p>
+                                <span><b>Address : </b></span>
+                                <p> Vashi, Navi Mumbai, Maharashtra</p>
                             </div>
                             <div class="contact-item">
-                                <label>Phone:</label>
-                                <h6 class="mb-0 fw-bold"><a href="#">+(91) 123-456789</a></h6>
+                                <span><b>Phone : </b></span>
+                                <h6 class="mb-0 fw-bold"><a href="#"> +(91) 123-456789</a></h6>
                             </div>
                             <div class="contact-item">
-                                <label>Email:</label>
-                                <a class="text-dark" href="#">info@mentorparth.com</a>
+                                <span><b>Email : </b></span>
+                                <a class="text-dark" href="#"> info@mentorparth.com</a>
                             </div>
                         </div>
                     </div>
