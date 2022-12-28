@@ -4346,7 +4346,7 @@ a.text-primary:hover {
 
 .case-study .case-study-img {
   background-size: cover;
-  min-height: 342px;
+  min-height: 242px;
   border-radius: 5px;
   background-position: center center;
 }
